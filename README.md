@@ -7,7 +7,7 @@ This project is a Tailwind CSS practice website built by following a tutorial fr
 - Developed as a practice project to learn **Tailwind CSS**.
 - Followed the **JavaScript Mastery** YouTube tutorial.
 - Built with **React, Vite, and Tailwind CSS**.
-- Deployed on **GitHub Pages**.
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS
