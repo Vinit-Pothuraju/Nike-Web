@@ -2,8 +2,6 @@
 
 This project is a Tailwind CSS practice website built by following a tutorial from the **JavaScript Mastery** YouTube channel. The website is designed to showcase a modern and responsive UI, implementing Tailwind CSS best practices.
 
-## 🚀 Live Demo
-[Click here to view the deployed website](https://vinit-pothuraju.github.io/Nike-Web/)
 
 ## 📌 About the Project
 - Developed as a practice project to learn **Tailwind CSS**.
@@ -54,17 +52,14 @@ Nike-Web/
    ```
 5. Open `http://localhost:5173/` in your browser.
 
-## 🚀 Deployment
-To deploy the project to GitHub Pages:
-```sh
-npm run deploy
-```
-Make sure the `vite.config.js` file has the correct base path for GitHub Pages:
-```js
-export default defineConfig({
-  base: '/Nike-Web/',
-});
-```
+## Images
+<img width="1919" height="825" alt="image" src="https://github.com/user-attachments/assets/a7f15fbb-3db5-4360-a50d-73f7172af92d" />
+<img width="1882" height="822" alt="image" src="https://github.com/user-attachments/assets/61b9f829-f752-49b6-931d-28ad2d8f5292" />
+<img width="1875" height="801" alt="image" src="https://github.com/user-attachments/assets/91538de9-3063-4bfd-83df-617f31bc6905" />
+<img width="1870" height="824" alt="image" src="https://github.com/user-attachments/assets/9a4fee81-27a5-48ba-94ac-f1f8a158cf03" />
+<img width="1875" height="822" alt="image" src="https://github.com/user-attachments/assets/d9b1fade-0e8b-4477-9edc-6510c908edac" />
+
+
 
 ## 📺 Tutorial Source
 This project was built by following the tutorial from **JavaScript Mastery**.
